@@ -1,4 +1,5 @@
 #sudo systemctl enable pigpio or sudo pigpiod
+#https://t.ly/QweL
 from gpiozero.pins.pigpio import PiGPIOFactory
 from gpiozero             import Servo
 from time                 import sleep
